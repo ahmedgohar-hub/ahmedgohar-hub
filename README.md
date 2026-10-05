@@ -51,6 +51,34 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3><a href="https://github.com/moaazali3/mediconnect">🏥 MediConnect</a></h3>
+      <p>A comprehensive <strong>healthcare mobile application</strong> built with Flutter — connecting patients with medical services seamlessly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/BLoC-000000?style=flat-square&logo=flutter&logoColor=white" alt="BLoC"/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square" alt="Clean Architecture"/>
+      </p>
+      <ul>
+        <li>Cross-platform mobile app for Android & iOS</li>
+        <li>Clean Architecture with BLoC state management</li>
+        <li>Firebase integration (Auth, Firestore, Cloud Messaging)</li>
+        <li>RESTful API integration with Dio</li>
+      </ul>
+      <a href="https://github.com/moaazali3/mediconnect"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
